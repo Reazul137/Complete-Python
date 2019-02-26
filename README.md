@@ -6,8 +6,9 @@ Then we need to setup an IDE(Integrated development environment), in IDE we can 
 2. <b>Comments.</b>
 <p> Using comments within your Python programs helps to make your programs more readable for humans, including your future self. Including appropriate comments that are relevant and useful can make it easier for others to collaborate with you on programming projects and make the value of your code more obvious. </p>
 
-3. <b>Displaying Output / Data With The Print Function and more.</b>
-<p> We use the print() function to output data to the standard output device (screen).</p>
+3. <b>Displaying Input / Output / Data With The Print Function and more.</b>
+<p>when we build interactive software applications. We want the end users to enter some data or to input some data that our application will use. And at some point our application will send some data back to the end user or display some output to the user.
+so, to perform these two input and output operations in a standalone python program we use the <b>input()</b> function and the <b>print()</b> functions.</p>
 
 4. Variables.
 
