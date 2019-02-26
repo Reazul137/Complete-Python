@@ -7,6 +7,9 @@ Then we need to setup an IDE(Integrated development environment), in IDE we can 
 <p> Using comments within your Python programs helps to make your programs more readable for humans, including your future self. Including appropriate comments that are relevant and useful can make it easier for others to collaborate with you on programming projects and make the value of your code more obvious. Comments in Python begin with a <b>hash mark (#)</b> and <b>whitespace
 character</b> and continue to the end of the line </p>
 
+I. <b>Understanding Data Types</b>
+<p>In Python, like in all programming languages, data types are used to classify one particular type of data. This is important because the specific data type you use will determine what values you can assign to it and what you can do to it (including what operations you can perform on it). </p>
+
 3. <b>Displaying Input / Output / Data With The Print Function and more.</b>
 <p>when we build interactive software applications. We want the end users to enter some data or to input some data that our application will use. And at some point our application will send some data back to the end user or display some output to the user.
 so, to perform these two input and output operations in a standalone python program we use the <b>input()</b> function and the <b>print()</b> functions.</p>
