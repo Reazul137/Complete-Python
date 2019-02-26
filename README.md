@@ -7,6 +7,7 @@ Then we need to setup an IDE(Integrated development environment), in IDE we can 
 <p> Using comments within your Python programs helps to make your programs more readable for humans, including your future self. Including appropriate comments that are relevant and useful can make it easier for others to collaborate with you on programming projects and make the value of your code more obvious. </p>
 
 3. <b>Displaying Output / Data With The Print Function and more.</b>
+<p> We use the print() function to output data to the standard output device (screen).</p>
 
 4. Variables.
 
