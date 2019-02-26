@@ -4,7 +4,7 @@ Go to python website(www.python.org) and download the latest python file 3.5(ver
 Then we need to setup an IDE(Integrated development environment), in IDE we can run our python program, some IDE are, pycharm, spyder etc. </p>
 
 2. <b>Comments.</b>
-<p> Using comments within your <p>Python</p> programs helps to make your programs more readable for humans, including your future self. Including appropriate comments that are relevant and useful can make it easier for others to collaborate with you on programming projects and make the value of your code more obvious. </p>
+<p> Using comments within your Python programs helps to make your programs more readable for humans, including your future self. Including appropriate comments that are relevant and useful can make it easier for others to collaborate with you on programming projects and make the value of your code more obvious. </p>
 
 3. Displaying Output / Data With The Print Function and more.
 
