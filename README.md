@@ -1,4 +1,7 @@
-1. Introduction and setting Up Python.
+1. <b>Introduction and setting Up Python.</b>
+<p> At first we need to download to Python itself so that we can access it.
+Go to python website(www.python.org) and download the latest python file 3.5(version) or more. And install the file,
+Then we need to setup an IDE(Integrated development environment), in IDE we can run our python program, some IDE are, pycharm, spyder etc. </p>
 
 2. Comments.
 
