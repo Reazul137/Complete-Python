@@ -19,6 +19,8 @@ so, to perform these two input and output operations in a standalone python prog
 type each variable is. In Python, variables are a storage placeholder for texts and numbers. It must have a name so that you are able to find it again. The variable is always assigned with the equal sign, followed by the value of the variable.</p>
 
 5. <b>Variable Naming Rules.</b>
+<p>Must begin with a letter <b>(a - z, A - B) or underscore (_)</b> Other characters can be letters, numbers or _
+Case Sensitive. Can be any (reasonable) length. There are some reserved words which you cannot use as a variable name because Python uses them for other things.</p>
 
 6. Variable Naming Convention: Underscores.
 
