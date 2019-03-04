@@ -14,9 +14,11 @@ I. <b>Understanding Data Types</b>
 <p>when we build interactive software applications. We want the end users to enter some data or to input some data that our application will use. And at some point our application will send some data back to the end user or display some output to the user.
 so, to perform these two input and output operations in a standalone python program we use the <b>input()</b> function and the <b>print()</b> functions.</p>
 
-4. Variables.
+4. <b>Variables.</b>
+<p>Python is dynamically typed, which means that you don't have to declare what
+type each variable is. In Python, variables are a storage placeholder for texts and numbers. It must have a name so that you are able to find it again. The variable is always assigned with the equal sign, followed by the value of the variable.</p>
 
-5. Variable Naming Rules.
+5. <b>Variable Naming Rules.</b>
 
 6. Variable Naming Convention: Underscores.
 
