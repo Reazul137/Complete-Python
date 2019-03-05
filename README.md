@@ -9,6 +9,14 @@ character</b> and continue to the end of the line </p>
 
 I. <b>Understanding Data Types</b>
 <p>In Python, like in all programming languages, data types are used to classify one particular type of data. This is important because the specific data type you use will determine what values you can assign to it and what you can do to it (including what operations you can perform on it). </p>
+<b>Data Types in Python : </b>
+<p> 1. Python Numbers<br>
+    2. Python List<br>
+    3. Python Tuple<br>
+    4. Python Strings<br>
+    5. Python Set<br>
+    6. Python Dictionary<br>
+    7. Conversion between data types</p><br>
 
 3. <b>Displaying Input / Output / Data With The Print Function and more.</b>
 <p>when we build interactive software applications. We want the end users to enter some data or to input some data that our application will use. And at some point our application will send some data back to the end user or display some output to the user.
