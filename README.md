@@ -10,13 +10,20 @@ character</b> and continue to the end of the line </p>
 I. <b>Understanding Data Types</b>
 <p>In Python, like in all programming languages, data types are used to classify one particular type of data. This is important because the specific data type you use will determine what values you can assign to it and what you can do to it (including what operations you can perform on it). </p>
 <b>Data Types in Python : </b>
-<p> 1. Python Numbers<br>
-    2. Python List<br>
-    3. Python Tuple<br>
-    4. Python Strings<br>
-    5. Python Set<br>
-    6. Python Dictionary<br>
-    7. Conversion between data types</p><br>
+<p> 1. <b>Python Numbers : </b><br>
+    <p>Integers, floating point numbers and complex numbers falls under Python numbers category. They are defined as <b>int</b>, <b>float</b> and <b>complex</b> class in Python.</p>
+    2. <b>Python List : </b><br>
+    <p>List is an ordered sequence of items. It is one of the most used datatype in Python and is very flexible. All the items in a list do not need to be of the same type.</p>
+    3. <b>Python Tuple : </b><br>
+    <p>Tuple is an ordered sequence of items same as list.The only difference is that tuples are immutable. Tuples once created cannot be modified. Tuples are used to write-protect data and are usually faster than list as it cannot change dynamically. It is defined within parentheses () where items are separated by commas.</p>
+    4. <b>Python Strings : </b><br>
+    <p>String is sequence of Unicode characters. We can use single quotes or double quotes to represent strings. Multi-line strings can be denoted using triple quotes, <b>'''</b> or <b>"""</b>.</p>
+    5. <b>Python Set : </b><br>
+    <p>Set is an unordered collection of unique items. Set is defined by values separated by comma inside braces { }. Items in a set are not ordered.</p>
+    6. <b>Python Dictionary : </b><br>
+    <p>Dictionary is an unordered collection of key-value pairs. It is generally used when we have a huge amount of data. Dictionaries are optimized for retrieving data. We must know the key to retrieve the value. In Python, dictionaries are defined within braces {} with each item being a pair in the form key:value. Key and value can be of any type.</p>
+    7. <b>Conversion between data types : </b><br>
+    <p>We can convert between different data types by using different type conversion functions like <b>int()</b>, <b>float()</b>, <b>str()</b> etc.</p>
 
 3. <b>Displaying Input / Output / Data With The Print Function and more.</b>
 <p>when we build interactive software applications. We want the end users to enter some data or to input some data that our application will use. And at some point our application will send some data back to the end user or display some output to the user.
