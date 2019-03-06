@@ -37,8 +37,10 @@ type each variable is. In Python, variables are a storage placeholder for texts 
 <p>Must begin with a letter <b>(a - z, A - B) or underscore (_)</b> Other characters can be letters, numbers or _
 Case Sensitive. Can be any (reasonable) length. There are some reserved words which you cannot use as a variable name because Python uses them for other things.</p>
 
-6. <b> Arithmetic operators</b>
+6. <b>Operators</b>
 <p>Operators are special symbols in Python that carry out arithmetic or logical computation. The value that the operator operates on is called the operand.<br>
+<b>Arithmatic operators</b>
+    <p>Arithmetic operators are used to perform mathematical operations like addition, subtraction, multiplication etc.</p>
 Add two operands or unary plus <b>"+"</b>.<br>
 Subtract right operand from the left or unary minus <b>"-"</b>.<br>
 Multiply two operands <b>"*"</b>.<br>
@@ -46,6 +48,22 @@ Divide left operand by the right one (always results into float) <b>"/"</b>.<br>
 Modulus - remainder of the division of left operand by the right <b>"%"</b>.<br>
 Floor division - division that results into whole number adjusted to the left in the number line <b>"//"</b>.<br>
 Exponent - left operand raised to the power of right <b>"**"</b>.</p><br>
+
+<b>Comparison operators</b>
+<p>Comparison operators are used to compare values. It either returns True or False according to the condition.</p>
+Greater that - True if left operand is greater than the right <b>">"</b>.<br>
+Less that - True if left operand is less than the right <b>"<"</b>.<br>
+Equal to - True if both operands are equal <b>"=="</b>.<br>
+Not equal to - True if operands are not equal <b>"!="</b>.<br>
+Greater than or equal to - True if left operand is greater than or equal to the right <b>">="</b>.<br>
+Less than or equal to - True if left operand is less than or equal to the right <b>"<="</b>.<br>
+    
+ <b>Logical operators</b>
+ <b>Bitwise operators</b>
+ <b>Assignment operators</b>
+ <b>Special operators</b>
+ <b>Identity operators</b>
+ <b>Membership operators</b>
 
 
 10. Literals.
