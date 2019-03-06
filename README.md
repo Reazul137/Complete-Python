@@ -37,6 +37,16 @@ type each variable is. In Python, variables are a storage placeholder for texts 
 <p>Must begin with a letter <b>(a - z, A - B) or underscore (_)</b> Other characters can be letters, numbers or _
 Case Sensitive. Can be any (reasonable) length. There are some reserved words which you cannot use as a variable name because Python uses them for other things.</p>
 
+6. <b> Arithmetic operators</b>
+<p>Operators are special symbols in Python that carry out arithmetic or logical computation. The value that the operator operates on is called the operand.
+Add two operands or unary plus <b>"+"</b> .
+Subtract right operand from the left or unary minus <b>"-"</b> .
+Multiply two operands <b>"*"</b> .
+Divide left operand by the right one (always results into float) <b>"/"</b> .
+Modulus - remainder of the division of left operand by the right <b>"%"</b> .
+Floor division - division that results into whole number adjusted to the left in the number line <b>"//"</b> .
+Exponent - left operand raised to the power of right <b>"**"</b>.</p>
+
 
 10. Literals.
 
